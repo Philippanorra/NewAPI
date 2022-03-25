@@ -4,6 +4,3 @@ news_env/
 
 # config - API key
 config.ini 
-
-[newsreader]
-api_key = hVVtoFytEUhVKJIgX-UZiv-V9yUkS55ona7G5fZ1qTk 
